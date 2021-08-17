@@ -1,0 +1,16 @@
+package com.test.assignments
+
+x1=2
+x2=20000000000
+x3=200000000000000000000000
+println " Data type of a1: " + a1.getClass().getName()
+println " Data type of a2: " + a2.getClass().getName()
+println " Data type of a3: " + a3.getClass().getName()
+
+// For Float
+y1=20000000.0
+y2=200000000000000000000000000000000000000000.0000000
+y3=20000000000000000000000000000000000000000000000000000000000000000.00000
+println "Data type of b1: " + b1.getClass().getName()
+println "Data type of b2: " + b2.getClass().getName()
+println "Data type of b3: " + b3.getClass().getName()

@@ -1,0 +1,5 @@
+package com.test.assignments
+
+String name="Kshitija Jawale"
+println "Hello "+name
+println "Hello ${name}"
